@@ -1,0 +1,90 @@
+[0m2021.05.04 15:51:59 INFO  Started: Metals version 0.10.2 in workspace 'C:\Users\a-dav\OneDrive\Alexis\Documents\opencart-3.0.3.7' for client vscode 1.55.2.[0m
+[0m2021.05.04 15:52:04 INFO  time: initialize in 4.57s[0m
+[0m2021.05.04 15:52:05 WARN  Build server is not auto-connectable.[0m
+[0m2021.05.04 15:52:05 WARN  no build tool detected in workspace 'C:\Users\a-dav\OneDrive\Alexis\Documents\opencart-3.0.3.7'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+May 04, 2021 4:11:55 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+[0m2021.05.04 16:13:45 INFO  shutting down Metals[0m
+[0m2021.05.04 18:28:53 INFO  Started: Metals version 0.10.2 in workspace 'C:\Users\a-dav\OneDrive\Alexis\Documents\opencart-3.0.3.7' for client vscode 1.55.2.[0m
+[0m2021.05.04 18:28:56 INFO  time: initialize in 3.37s[0m
+[0m2021.05.04 18:28:58 WARN  Build server is not auto-connectable.[0m
+[0m2021.05.04 18:28:58 WARN  no build tool detected in workspace 'C:\Users\a-dav\OneDrive\Alexis\Documents\opencart-3.0.3.7'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.05.04 18:29:20 INFO  shutting down Metals[0m
+[0m2021.05.04 18:31:40 INFO  Started: Metals version 0.10.2 in workspace 'C:\Users\a-dav\OneDrive\Alexis\Documents\opencart-3.0.3.7' for client vscode 1.55.2.[0m
+[0m2021.05.04 18:31:43 INFO  time: initialize in 2.92s[0m
+[0m2021.05.04 18:31:43 WARN  Build server is not auto-connectable.[0m
+[0m2021.05.04 18:31:43 WARN  no build tool detected in workspace 'C:\Users\a-dav\OneDrive\Alexis\Documents\opencart-3.0.3.7'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.05.04 18:46:41 INFO  shutting down Metals[0m
+[0m2021.05.04 18:47:55 INFO  Started: Metals version 0.10.2 in workspace 'C:\Users\a-dav\OneDrive\Alexis\Documents\opencart-3.0.3.7' for client vscode 1.55.2.[0m
+[0m2021.05.04 18:47:59 INFO  time: initialize in 4.23s[0m
+[0m2021.05.04 18:48:00 WARN  Build server is not auto-connectable.[0m
+[0m2021.05.04 18:48:00 WARN  no build tool detected in workspace 'C:\Users\a-dav\OneDrive\Alexis\Documents\opencart-3.0.3.7'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+May 04, 2021 6:53:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+[0m2021.05.04 19:29:48 INFO  shutting down Metals[0m
+[0m2021.05.04 20:43:59 INFO  Started: Metals version 0.10.2 in workspace 'C:\Users\a-dav\OneDrive\Alexis\Documents\opencart-3.0.3.7' for client vscode 1.55.2.[0m
+[0m2021.05.04 20:44:02 INFO  time: initialize in 3.19s[0m
+[0m2021.05.04 20:44:02 WARN  Build server is not auto-connectable.[0m
+[0m2021.05.04 20:44:02 WARN  no build tool detected in workspace 'C:\Users\a-dav\OneDrive\Alexis\Documents\opencart-3.0.3.7'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+May 04, 2021 8:45:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+May 04, 2021 8:46:45 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+May 04, 2021 8:47:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+May 04, 2021 8:47:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+May 04, 2021 8:47:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+May 04, 2021 8:47:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+May 04, 2021 8:47:22 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+May 04, 2021 9:05:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+May 04, 2021 9:05:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+May 04, 2021 9:09:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+[0m2021.05.05 01:07:42 INFO  shutting down Metals[0m
+[0m2021.05.05 13:44:46 INFO  Started: Metals version 0.10.2 in workspace 'C:\Users\a-dav\OneDrive\Alexis\Documents\opencart-3.0.3.7' for client vscode 1.55.2.[0m
+[0m2021.05.05 13:44:51 INFO  time: initialize in 4.84s[0m
+[0m2021.05.06 12:12:31 INFO  Started: Metals version 0.10.2 in workspace 'C:\Users\a-dav\OneDrive\Alexis\Documents\opencart-3.0.3.7' for client vscode 1.56.0.[0m
+[0m2021.05.06 12:12:35 INFO  time: initialize in 3.59s[0m
+[0m2021.05.06 12:12:36 WARN  Build server is not auto-connectable.[0m
+[0m2021.05.06 12:12:36 WARN  no build tool detected in workspace 'C:\Users\a-dav\OneDrive\Alexis\Documents\opencart-3.0.3.7'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.05.07 12:47:02 INFO  Started: Metals version 0.10.2 in workspace 'C:\Users\a-dav\OneDrive\Alexis\Documents\opencart-3.0.3.7' for client vscode 1.56.0.[0m
+[0m2021.05.07 12:47:09 INFO  time: initialize in 6.4s[0m
+[0m2021.05.07 12:47:32 WARN  Build server is not auto-connectable.[0m
+[0m2021.05.07 12:47:32 WARN  no build tool detected in workspace 'C:\Users\a-dav\OneDrive\Alexis\Documents\opencart-3.0.3.7'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+May 07, 2021 12:47:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+May 07, 2021 1:19:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+[0m2021.05.07 13:48:13 INFO  shutting down Metals[0m
+[0m2021.05.07 13:49:50 INFO  Started: Metals version 0.10.2 in workspace 'C:\Users\a-dav\OneDrive\Alexis\Documents\opencart-3.0.3.7' for client vscode 1.56.0.[0m
+[0m2021.05.07 13:49:54 INFO  time: initialize in 4.33s[0m
+[0m2021.05.07 13:49:56 WARN  Build server is not auto-connectable.[0m
+[0m2021.05.07 13:49:56 WARN  no build tool detected in workspace 'C:\Users\a-dav\OneDrive\Alexis\Documents\opencart-3.0.3.7'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+May 07, 2021 2:07:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+[0m2021.05.07 14:08:16 INFO  shutting down Metals[0m
+[0m2021.05.07 14:19:54 INFO  Started: Metals version 0.10.2 in workspace 'C:\Users\a-dav\OneDrive\Alexis\Documents\opencart-3.0.3.7' for client vscode 1.56.0.[0m
+[0m2021.05.07 14:19:58 INFO  time: initialize in 5s[0m
+[0m2021.05.07 14:20:00 WARN  Build server is not auto-connectable.[0m
+[0m2021.05.07 14:20:00 WARN  no build tool detected in workspace 'C:\Users\a-dav\OneDrive\Alexis\Documents\opencart-3.0.3.7'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.05.07 14:27:02 INFO  shutting down Metals[0m
+[0m2021.05.08 14:18:41 INFO  Started: Metals version 0.10.2 in workspace 'C:\Users\a-dav\OneDrive\Alexis\Documents\opencart-3.0.3.7' for client vscode 1.56.0.[0m
+[0m2021.05.08 14:18:45 INFO  time: initialize in 3.67s[0m
+[0m2021.05.08 14:18:49 WARN  Build server is not auto-connectable.[0m
+[0m2021.05.08 14:18:49 WARN  no build tool detected in workspace 'C:\Users\a-dav\OneDrive\Alexis\Documents\opencart-3.0.3.7'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+May 08, 2021 2:33:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+May 08, 2021 2:33:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+May 08, 2021 2:33:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+May 08, 2021 2:33:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+May 08, 2021 3:20:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification

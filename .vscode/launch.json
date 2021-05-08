@@ -1,0 +1,75 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        IntelliSense
+
+
+
+
+        
+
+        {
+            "type": "firefox",
+            "request": "launch",
+            "reAttach": true,
+   
+            "name": "Launch add-on",
+            "addonPath": "${workspaceFolder}"
+        },
+        
+        
+        
+        configurations
+        
+        build
+
+        build
+
+        
+        backgroundColor
+        configurations
+        exe
+
+        configurations
+
+
+
+        {
+            "name": "(gdb) Bash on Windows Launch",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "enter program name, for example ${workspaceFolder}/a.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": false,
+            "pipeTransport": {
+                "debuggerPath": "/usr/bin/gdb",
+                "pipeProgram": "${env:windir}\\system32\\bash.exe",
+                "pipeArgs": ["-c"],
+                "pipeCwd": ""
+            },
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ]
+        },
+        {
+            "type": "Puppet",
+            "request": "launch",
+            "name": "Puppet Apply current file",
+            "manifest": "${file}",
+            "args": [],
+            "noop": true,
+            "cwd": "${file}"
+        }
+    ]
+}

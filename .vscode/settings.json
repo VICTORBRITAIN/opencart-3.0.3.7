@@ -1,0 +1,13 @@
+{
+    "graalvm.installations": [
+        
+    
+    ],
+    "files.watcherExclude": {
+        "**/target": true
+    },
+    "java.completion.enabled": false,
+    "java.debug.settings.enableRunDebugCodeLens": false,
+    "DockerRun.DisableDockerrc": true,
+    "arduino.useArduinoCli": true
+}
